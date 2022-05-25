@@ -1566,6 +1566,7 @@ input, select, textarea {
 		}
 
 		.image.maxfit {
+			display: inline-block;
 			max-width: 100%;
 			text-align: center;
 		}
